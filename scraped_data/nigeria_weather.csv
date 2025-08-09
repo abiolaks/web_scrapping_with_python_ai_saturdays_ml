@@ -1,0 +1,21 @@
+city,lat,lon,weather,description,temperature_C,humidity_%,wind_speed_mps,timestamp
+Lagos,6.5833,3.75,Clouds,overcast clouds,23.97,89,2.59,1754725507
+Abuja,9.0574,7.4898,Clouds,overcast clouds,21.95,93,2.36,1754725663
+Kano,12.0001,8.5167,Clouds,overcast clouds,25.92,69,5.49,1754725665
+Ibadan,7.3878,3.8964,Clouds,overcast clouds,22.43,90,2.49,1754725566
+Port Harcourt,4.7774,7.0134,Clouds,overcast clouds,24.1,85,2.51,1754725668
+Benin City,6.335,5.6275,Clouds,overcast clouds,23.27,94,1.44,1754725669
+Maiduguri,11.8464,13.1603,Clouds,overcast clouds,26.8,69,7.43,1754725671
+Zaria,11.1113,7.7227,Clouds,broken clouds,23.22,83,5.07,1754725673
+Aba,5.1066,7.3667,Clouds,overcast clouds,23.36,90,1.76,1754725674
+Jos,9.9167,8.9,Clouds,overcast clouds,19.99,86,2.74,1754725676
+Ilorin,8.5,4.55,Clouds,overcast clouds,21.28,94,2.69,1754725677
+Enugu,6.4402,7.4943,Clouds,overcast clouds,21.86,97,1.58,1754725679
+Oyo,7.85,3.9333,Clouds,overcast clouds,21.23,93,2.81,1754725680
+Abeokuta,7.15,3.35,Clouds,overcast clouds,23.42,87,2.64,1754725564
+Onitsha,6.1454,6.7885,Clouds,overcast clouds,23.17,94,1.63,1754725683
+Warri,5.5167,5.75,Clouds,overcast clouds,24.62,84,2.48,1754725685
+Calabar,4.9517,8.322,Clouds,overcast clouds,23.93,91,1.48,1754725686
+Sokoto,13.0609,5.239,Clouds,scattered clouds,26.95,73,4.83,1754725688
+Uyo,5.0333,7.9266,Rain,light rain,23.67,91,2.17,1754725689
+Kaduna,10.5222,7.4383,Clouds,overcast clouds,21.61,94,3.26,1754725691
